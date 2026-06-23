@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kamishka Hewapathirana</h1>
-<h3 align="center">A passionate Associate Software Engineer from Sri Lanka</h3>
+<h1 align="center">Hello 👋, I'm Kamishka Hewapathirana</h1>
+<h3 align="center">An Associate Software Engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 📝 I'm currently working as an associate software engineer 
+- 🌱 I’m currently learning **LLM and Azure**
 
 - 💬 Ask me about **React,Java**
 
